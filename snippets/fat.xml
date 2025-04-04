@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="fat"
+           fetch="https://github.com/" />
+
+  <project path="vendor/lineage" name="fatboy1513/android_vendor_lineage" remote="fat" />
+
+</manifest>
